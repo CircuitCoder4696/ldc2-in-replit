@@ -4,4 +4,3 @@ This is a simple template to setup LDC2 in replit.  You can rename it after you 
 ## Installation
 run the following.  
 `python install-ldc2.py`
- 
